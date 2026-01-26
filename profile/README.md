@@ -53,7 +53,6 @@ Help build the future of public goods! We are a growing community dedicated to m
 
 * **💻 Contribute Code:** Help us build and maintain transparency tools.
 * **📂 Contribute Data:** Assist in collecting and curating datasets for the platform.
-* **🧠 Share Expertise:** Mentor other contributors and advocate for open data.
 
 [**👉 Get Involved Today**](https://opendata.lk/contribute/)
 
