@@ -29,7 +29,7 @@ The data platform focuses on the infrastructure and APIs needed to model, connec
 - Backend frameworks integrating different types of databases
 - Tools that enable data reuse by applications, researchers, and organizations
 
-### Information Hub
+### Sri Lanka Information Hub
 
 The information hub focuses on access, exploration, and understanding of public data from Sri Lanka.
 
